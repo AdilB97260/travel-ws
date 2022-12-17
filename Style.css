@@ -1,0 +1,386 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.Container
+{
+    width: 1150px;
+    margin: 0 auto;
+}
+.Sec1
+{
+    /* height: 650px; */
+    background-color:#e9e7e7;
+}
+.Row
+{
+    display: flex;
+}
+.Jsc
+{
+    justify-content: space-between;
+}
+.Link ul li
+{
+    list-style: none;
+}
+.Link ul li a
+{
+    margin: 0 20px;
+    font-size: 15px;
+    color:rgb(143, 141, 141);
+    padding: 20px;
+    text-decoration: none;
+}
+.Link ul li a:hover{
+    color: black;
+    font-weight: bold;
+}
+.line
+{
+    line-height: 120px;
+}
+.Sec1 input
+{
+    color: black;
+    padding: 10px 30px;
+    border: solid;
+    border-radius: 3px;
+}
+.Col-40
+{
+    width: 50%;
+}
+.Home h2
+{
+    font-size: 60px;
+    color: black;
+}
+.Home .Col-40
+{
+    padding: 0 40px ;
+    margin: 40px 0;
+}
+.Home p{
+    margin: 10px 0 20px 0;
+    padding: 0 40px 0 0 ;
+}
+.Home input
+{
+    background-color: black;
+    color: #e9e7e7;
+    border-radius: 3px;
+     font-weight: bold;
+     font-size: 20px;
+     padding: 10px 40px ;
+     margin: 20px 0;
+}
+
+
+.Col-60
+{
+    width: 60%;
+}
+.Home .Col-60
+{
+    padding: 30px 0;
+    margin: 0 0 30px 0;
+}
+.Sec1 input:hover
+{
+background-color: black;
+color: #e9e7e7;
+}
+.Home input:hover{
+    color: black;
+    background-color: #e9e7e7;
+}
+.Sec-2
+{
+    background-color: black;
+}
+.Sec-Text
+{
+    text-align: center;
+}
+.Sec-2 h2
+{
+color: #e9e7e7;
+font-size: 40px;
+padding: 20px 100px;
+width: 50%;
+margin: 0 auto;
+}
+.Sec-2 p
+{
+    color:#e9e7e7;
+    font-size: 20px;
+    padding: 0 70px 20px 70px;
+width: 50%;
+margin: 0 auto;
+}
+.Sec-2 input
+{
+    background-color: black;
+    color: #e9e7e7;
+  border-color: #e9e7e7;
+  font-size: 20px;
+  padding: 7px 30px  ;
+  border-radius: 3px;
+  margin: 0 0 50px 0;
+}
+.Sec-2 input:hover{
+    color: black;
+    background-color: #e9e7e7;
+}
+.Sec-3
+{
+    background-color: #e9e7e7;
+}
+.Col-30
+{
+    width: 30%;
+}
+.Cart
+{
+    padding: 80px 0 150px 0;
+}
+.Sec-3 h2
+{
+    font-size: 30px;
+    padding: 15px 0;
+
+}
+
+.Sec-4
+{
+    background-color: #e9e7e7;
+}
+.Sec-4 h2
+{
+    font-size: 80px;
+letter-spacing: -2px;
+line-height: 98px;
+color: #232323;
+font-weight: 700;
+font-family: "Cardo";
+text-align: center;
+}
+.Sec-4 i
+{
+    font-size: 40px;
+    padding: 100px 0 0 0 ;
+} 
+.Sec-4 p
+{
+    font-weight: bold;
+    padding: 20px 0 60px 0;
+}
+.Hr
+{
+    text-decoration: underline;
+    
+}
+.Sec-5
+{
+    background-color: #e9e7e7;
+}
+.Sec-5 img
+{
+    padding: 80px 0 50px 0;
+}
+.Col-50
+{
+    width: 50%;
+}
+.Pad1
+{
+    padding: 50px 0 ;
+}
+.HrLine
+{
+    text-decoration: underline;
+}
+.Sec-6
+{
+    background-color: #232323;
+
+}
+.Sec-6 h2
+{
+    color: #e9e7e7;
+    font-size: 40px;
+    padding: 80px 80px 80px 0;
+
+}
+.Sec-6 h4
+{
+    color: #e9e7e7;
+}
+.Sec-6 p
+{
+    color: #e9e7e7;
+    padding: 10px 80px 40px 0;
+}
+.Sec-6 img
+{
+    padding: 80px 0;
+    width: 100%;
+}
+.Sec-7
+{
+    background-color: #e9e7e7;
+}
+.Col-70
+{
+    width: 60%;
+}
+.Col-30
+{
+    width: 40%;
+}
+.Sec-7 h2
+{
+    font-size: 50px;
+    padding: 90px 50px 70px 0;
+}
+.Spc
+{
+word-spacing: 2rem;  
+}
+.Mar
+{
+    margin: 0 40px 0 0 ;
+}
+.Sec-7 p
+{
+    padding: 10px 0;
+}
+.Sec-7 img
+{
+    padding: 100px 70px;
+}
+hr
+{
+    border: solid;
+}
+.dark
+{
+    font-weight: bold;
+font-size: 25px;
+}
+.Sec-8
+{
+    background-color: #e9e7e7;
+   
+}
+.Sec-8 h2
+{
+    font-size: 65px;
+    text-align: center;
+}
+.Cart2 .Col-30
+{
+    border: solid;
+    margin: 0 8px;
+    border-radius: 10px;
+}
+.Cart2
+{
+    padding: 40px 0 60px 0;
+}
+.Cart2 i
+{
+    font-size: 70px;
+   align-items: center;
+   width: 100%;
+   padding: 40px 0 20px 150px;
+}
+.Cart2 h4{
+    text-align: center;
+    font-size: 15px;
+}
+.Cart2 p
+{
+    text-align: center;
+    padding: 20px 30px 50px 30px;
+}
+.Sec-9
+{
+    background-color:#e9e7e7;
+}
+.Sec-9 h2
+{
+    font-size: 60px;
+    padding: 30px 0 20px 0;
+}
+.Sec-9 input[type=text] 
+{
+    border: solid;
+    border-radius: 4px;
+    padding: 8px  140px 8px 10px;
+    margin: 7px 0;
+}
+.Sec-9 input[type=email] 
+{
+    border: solid;
+    border-radius: 4px;
+    padding: 8px  140px 8px 10px;
+    margin: 7px 0;
+}
+textarea
+{
+    border: solid;
+    border-radius: 4px;
+    padding: 0 74px 0 0;
+    margin: 7px 0;
+}
+.Sec-9 input[type=button]
+{
+    color: #e9e7e7;
+    background-color: #232323;
+    padding: 8px 115px ;
+    border-radius: 4px;
+    margin: 10px 0;
+}
+.Sec-9 input[type=button]:hover
+{
+    color:  #232323;
+    background-color:#e9e7e7;
+
+}
+.Sec-9 img
+{
+    max-height: 150px 0;
+    padding: 30px 30px 80px 0;
+    width: 100%;
+}
+.Sec-10
+{
+    background-color: #c4c4c4;;
+}
+.Col20
+{
+    width: 20%;
+   
+}
+.Sec-10 h2
+{
+    padding: 80px 30px;  
+      font-size: 40px;
+}
+.toppad
+{
+    padding: 90px 30px;
+}
+.Sec-10 p
+{
+   padding: 5px 0;
+}
+.BottomP
+{
+    text-align: center;
+    padding: 0 0 80px 0;
+}
